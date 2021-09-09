@@ -1,0 +1,41 @@
+
+
+.button {
+    border: none;
+    text-align: center;
+    text-decoration: none;
+    display:list-item;
+    margin: 18px 20px;
+    cursor: pointer;
+}
+.button1 {
+    background-color: rgb(248, 248, 248); 
+    color: rgb(59, 202, 188); 
+    border: 3px solid rgb(59, 202, 188);
+    border-radius: 25px;
+    padding: 5px 55px;
+    font-size: 16px;
+    font-weight: bold;
+  }
+  
+  .button2 {
+    background-color: rgb(59, 202, 188); 
+    color: white; 
+    font-size: 24px;
+    padding: 0px;
+    border: 2px solid rgb(59, 202, 188);
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+  }
+  
+  .button3 {
+    background-color:dodgerblue; 
+    color: white; 
+    border: 3px solid black;
+    font-size: 18px;
+    padding: 10px 25px;
+    box-shadow:3px 3px black;
+  }
+
+  /*Code by @Kenniche*/
